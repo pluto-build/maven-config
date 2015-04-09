@@ -2,7 +2,7 @@
 
 # maven-config
 
-Maven parent pom's.
+Maven parent pom's, adopted for pluto-build.
 
 * *maven-config-java*: Parent pom for Java builds (using felix to generate Eclipse manifests)
 * *maven-config-java-bundle*: Parent pom for Java plug-ins (using felix to generate Eclipse manifests, embedding all dependencies)
