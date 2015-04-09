@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sugar-lang/maven-config.svg?branch=master)](https://travis-ci.org/sugar-lang/maven-config)
+[![Build Status](https://travis-ci.org/pluto-build/maven-config.svg?branch=master)](https://travis-ci.org/pluto-build/maven-config)
 
 # maven-config
 
