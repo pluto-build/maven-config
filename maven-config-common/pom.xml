@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.sugarj</groupId>
+	<groupId>build.pluto</groupId>
 	<artifactId>maven-config-common</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
@@ -12,7 +12,7 @@
 		<java.binary.version>1.7</java.binary.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-		<maven-deploy-github-owner>sugar-lang</maven-deploy-github-owner>
+		<maven-deploy-github-owner>pluto-build</maven-deploy-github-owner>
 		<maven-deploy-github-skip>false</maven-deploy-github-skip>
 	</properties>
 
