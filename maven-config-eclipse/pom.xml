@@ -36,7 +36,7 @@
 					<compilerArgument>-warn:-discouraged,forbidden,deprication,raw,unchecked,typeHiding,serial,unusedImport</compilerArgument>
 					<compilerArgument>-err:-forbidden</compilerArgument>
 					<source>${java.source.version}</source>
-					<target>${java.target.version}</target>
+					<target>${java.binary.version}</target>
 					<debug>true</debug>
 				</configuration>
 			</plugin>
