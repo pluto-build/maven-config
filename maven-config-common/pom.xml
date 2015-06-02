@@ -97,15 +97,19 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</repository>
-		<!-- <repository> <id>metaborg-nexus-snapshots</id> <url>http://artifacts.metaborg.org/content/repositories/snapshots/</url> 
-			<releases> <enabled>false</enabled> </releases> <snapshots> <enabled>true</enabled> 
-			</snapshots> </repository> <repository> <id>metaborg-nexus-releases</id> 
-			<url>http://artifacts.metaborg.org/content/repositories/releases/</url> <releases> 
-			<enabled>true</enabled> </releases> <snapshots> <enabled>false</enabled> 
-			</snapshots> </repository> -->
 		<repository>
-			<id>metaborg-nexus-releases-replacement</id>
-			<url>http://download.spoofax.org/update/artifacts/releases/</url>
+			<id>metaborg-nexus-snapshots</id>
+			<url>http://artifacts.metaborg.org/content/repositories/snapshots/</url>
+			<releases>
+				<enabled>false</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>
+		<repository>
+			<id>metaborg-nexus-releases</id>
+			<url>http://artifacts.metaborg.org/content/repositories/releases/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
