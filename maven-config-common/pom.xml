@@ -8,8 +8,8 @@
 	<packaging>pom</packaging>
 
 	<properties>
-		<java.source.version>1.8</java.source.version>
-		<java.binary.version>1.8</java.binary.version>
+		<java.source.version>1.7</java.source.version>
+		<java.binary.version>1.7</java.binary.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 		<maven-deploy-github-owner>pluto-build</maven-deploy-github-owner>
