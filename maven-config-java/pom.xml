@@ -29,9 +29,6 @@
 				<configuration>
 					<source>${java.source.version}</source>
 					<target>${java.binary.version}</target>
-					<compilerArgs>
-						<arg>-parameters</arg>
-					</compilerArgs>
 				</configuration>
 			</plugin>
 
